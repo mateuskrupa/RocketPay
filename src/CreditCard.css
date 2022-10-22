@@ -1,5 +1,5 @@
-svg {
-    width: 67px;
+img {
+    height: 30px;
 }
 
 .icons {
@@ -10,4 +10,15 @@ svg {
 .data {
     display: flex;
     justify-content: space-between;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 10px;
+}
+h3 {
+    font-size: 14px;
 }

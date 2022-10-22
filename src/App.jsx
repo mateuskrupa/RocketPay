@@ -8,12 +8,12 @@ import styles from "./App.css"
 function App() {
   return (
     <div className="container">
-      <div>
+      <div id="left">
         <Tittle/>
         <Form/>
       </div>
 
-      <div>
+      <div id="right">
         <CreditCard/>
       </div>
       

@@ -1,6 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Inter, sans-serif;
+}
+
 .container {
     background-color: #202024;
     display: grid;
     grid-template-columns: auto auto;
     grid-template-rows: auto;
 }
+
+#left {
+    padding: 30px;
+}
+
+#right {
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+

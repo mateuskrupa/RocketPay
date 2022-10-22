@@ -4,12 +4,13 @@ import styles from "./Form.css"
 function Form () {
     return(
         <form >
-            <div className="num-name">
+            <div className="num">
                 <p>NÚMERO DO CARTÃO</p>
-                <input type="text" />
-
+                <input type="text" className="pad"/>
+            </div>
+            <div className="name">
                 <p>NOME DO TITULAR</p>
-                <input type="text" />
+                <input type="text" className="pad"/>
             </div>
 
             <div className="exp-cvc">
