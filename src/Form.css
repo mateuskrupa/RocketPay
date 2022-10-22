@@ -1,0 +1,28 @@
+* {
+    color: white;
+}
+
+.num-name {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto auto;
+}
+
+.exp-cvc {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto;
+}
+
+#button {
+    color: black;
+    background-color: #42D3FF;
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}

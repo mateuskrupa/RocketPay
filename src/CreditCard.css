@@ -1,0 +1,13 @@
+svg {
+    width: 67px;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.data {
+    display: flex;
+    justify-content: space-between;
+}
