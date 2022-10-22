@@ -48,4 +48,11 @@ form {
     flex-direction: column;
 }
 
+.exp {
+    padding-right: 7px;
+}
+
+.cvc {
+    padding-left: 7px;
+}
 

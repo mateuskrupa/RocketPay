@@ -7,16 +7,18 @@ import styles from "./App.css"
 
 function App() {
   return (
-    <div className="container">
-      <div id="left">
-        <Tittle/>
-        <Form/>
-      </div>
+    <div className="body">
+      <div className="container">
+        <div id="left">
+          <Tittle/>
+          <Form/>
+        </div>
 
-      <div id="right">
-        <CreditCard/>
+        <div id="right">
+          <CreditCard/>
+        </div>
+        
       </div>
-      
     </div>
 
   );
