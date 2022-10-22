@@ -10,6 +10,8 @@
     display: grid;
     grid-template-columns: auto auto;
     grid-template-rows: auto;
+    align-items: center;
+    justify-content: center;
 }
 
 #left {
@@ -20,6 +22,5 @@
     padding-right: 30px;
     padding-top: 30px;
     padding-bottom: 30px;
-
 }
 

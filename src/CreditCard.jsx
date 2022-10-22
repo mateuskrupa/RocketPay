@@ -7,7 +7,7 @@ function CreditCard () {
             <div className="icons">
                 <img src="././public/cc-icon.svg" alt="" />   
 
-                <img src="././public/cc-visa.svg" alt="" />
+                <img src="././public/cc-visa.svg" alt="" id="bandeira" />
 
             </div>
             <div className="card-number">

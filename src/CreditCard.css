@@ -22,3 +22,18 @@ p {
 h3 {
     font-size: 14px;
 }
+
+.card {
+    width: 360px;
+    height: 230px;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: url("././public/cc-bg.svg");
+}
+
+#bandeira {
+    width: 60px;
+}
